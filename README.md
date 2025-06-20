@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1Ayazahmed](https://github.com/1Ayazahmed)
 
-- 📝 I regularly write articles on [olussolution.com](olussolution.com)
+- 📝 I regularly write articles on [#Ayaz Ahmed](#1ayazahmed)
 
 - 💬 Ask me about **HTML , CSS , JavaScript , React ,Redux ,NodeJs, ExpressJs, MongoDB , NextJS**
 
