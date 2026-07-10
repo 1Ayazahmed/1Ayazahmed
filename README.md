@@ -14,7 +14,7 @@ I'm a passionate Full Stack Developer with 4+ years of hands-on experience build
 💬 Ask me about: React, Node.js, Express, MongoDB, Next.js, Python, Flask, WordPress, Shopify, n8n Automation, AI Agents
 🔗 Connect with Me
 <p align="left">
-  <a href="[https://linkedin.com/in/ayaz-ahmed](https://www.linkedin.com/in/ayaz-ahmed-018006355?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+  <a href="https://www.linkedin.com/in/ayaz-ahmed-018006355" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/1Ayazahmed" target="_blank">
