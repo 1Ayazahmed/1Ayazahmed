@@ -202,20 +202,28 @@ Fixed UI bugs, layout issues, and improved overall website performance
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">👥 Employee Management System</h3>
+      <h3 align="center">🌐 Perfect-Web-Cloner</h3>
+      <p align="center"><sub>AI-Powered Website Cloning Tool</sub></p>
       <div align="center">
-        <p align="justify">A single-page web app for managing employees, demonstrating key React concepts like Context API, Hooks, and client-side authentication. Features role-based dashboards for Admins and Employees and uses browser localStorage for data persistence.</p>
-        <a href="https://github.com/1Ayazahmed/Employee-Management-React" target="_blank">
+        <p align="justify">An open-source AI-powered tool that clones any public website's design, layout, and structure with high precision. Simply provide a URL, and the tool intelligently scrapes, analyzes, and reconstructs the website using modern AI/ML techniques. Currently in active development.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat&logo=python&logoColor=white"/>
+        </p>
+        <a href="https://github.com/1Ayazahmed/Perfect-Web-Cloner" target="_blank">
           <img src="https://img.shields.io/badge/⭐_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
         </a>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">💬 Real-Time Chat App</h3>
+      <h3 align="center">🚀 More Coming Soon</h3>
       <div align="center">
-        <p align="justify">A real-time messaging application built with modern web technologies featuring instant message delivery, user presence indicators, and responsive design.</p>
-        <a href="https://github.com/1Ayazahmed/Real-Time-Chat-App" target="_blank">
-          <img src="https://img.shields.io/badge/⭐_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+        <p align="justify">Stay tuned for more exciting projects! I'm currently working on AI agents, automation tools, and full-stack applications. Follow me on GitHub to get notified about new releases.</p>
+        <br/>
+        <a href="https://github.com/1Ayazahmed?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/📂_View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos"/>
         </a>
       </div>
     </td>
