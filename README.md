@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/1%2B%20Year-Industry-764ba2?style=for-the-badge&logo=briefcase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Currently-Full%20Stack%20Dev%20%40%20IT%20Agency-00c853?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
-📍 Karachi, Pakistan  ·  📧 ayazkk616@gmail.com  ·  📱 +92 303 3383180
+📍 Karachi, Pakistan  ·  📧 ayazkk616@gmail.com 
 </div>
 🧬 About Me
 💼 Currently: Full Stack Developer @ IT Agency (Karachi, Pakistan)
