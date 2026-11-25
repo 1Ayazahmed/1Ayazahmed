@@ -39,12 +39,18 @@ ayaz@karachi:~$ ls contact/
 ---
 
 ```bash
+ayaz@karachi:~$ ./pipeline --watch
+```
+
+<img src="https://raw.githubusercontent.com/1Ayazahmed/1Ayazahmed/main/assets/pipeline.svg" alt="vibe coding pipeline" width="100%"/>
+
+```bash
 ayaz@karachi:~$ cat vibe_coding.yaml
 ```
 
 ```yaml
 vibe_coding:
-  agents_ides: [Cursor, Trae, Kiro, CodeBuddy, Codex, Claude, Grok, Muse]
+  agents_ides: [Cursor, Trae, Kiro, CodeBuddy, Codex, Claude, Grok, Muse AI]
   extend_with: [expert skills, MCP tools, token compressors]
   loop:
     1_plan:    spec + architecture before any code
@@ -66,7 +72,7 @@ fde:
   <img src="https://img.shields.io/badge/Trae-161B22?style=flat-square&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/Kiro-161B22?style=flat-square&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/CodeBuddy-161B22?style=flat-square&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Muse-161B22?style=flat-square&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Muse_AI-161B22?style=flat-square&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/MCP-161B22?style=flat-square&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/Skills-161B22?style=flat-square&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/Token_Compressors-161B22?style=flat-square&logoColor=00FF9C"/>
