@@ -1,9 +1,15 @@
 <div align="center">
 
-<img src="assets/neural-header.svg" alt="Ayaz Ahmed — Vibe Coding Expert, Forward Deployed Engineer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neural-header.svg">
+  <img src="assets/neural-header-light.svg" alt="Ayaz Ahmed — Vibe Coding Expert, Forward Deployed Engineer" width="100%"/>
+</picture>
 
 <a href="https://github.com/1Ayazahmed">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00FF9C&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=50&lines=%24+whoami;vibe+coding+expert+%7C+forward+deployed+engineer;%24+plan+--first+%26%26+code+--second;%24+learning+--rust+--ai-stack;%24+status+--open-to-work" alt="typing terminal" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00FF9C&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=50&lines=%24+whoami;vibe+coding+expert+%7C+forward+deployed+engineer;%24+plan+--first+%26%26+code+--second;%24+learning+--rust+--ai-stack;%24+status+--open-to-work">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=1A7F37&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=50&lines=%24+whoami;vibe+coding+expert+%7C+forward+deployed+engineer;%24+plan+--first+%26%26+code+--second;%24+learning+--rust+--ai-stack;%24+status+--open-to-work" alt="typing terminal"/>
+</picture>
 </a>
 
 </div>
@@ -30,10 +36,10 @@ ayaz@karachi:~$ ls contact/
 ```
 
 <p>
-  <a href="https://github.com/1Ayazahmed"><img src="https://img.shields.io/badge/github-1Ayazahmed-0D1117?style=flat-square&logo=github&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/></a>
-  <a href="https://linkedin.com/in/ayaz-ahmed-018006355"><img src="https://img.shields.io/badge/linkedin-ayaz--ahmed-0D1117?style=flat-square&logo=linkedin&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/></a>
-  <a href="mailto:ayazkk616@gmail.com"><img src="https://img.shields.io/badge/mail-ayazkk616@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/></a>
-  <a href="https://wa.me/923033383180"><img src="https://img.shields.io/badge/whatsapp-chat-0D1117?style=flat-square&logo=whatsapp&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/></a>
+  <a href="https://github.com/1Ayazahmed"><img src="https://img.shields.io/badge/github-1Ayazahmed-2d333b?style=flat-square&logo=github&logoColor=3fb950&labelColor=21262d"/></a>
+  <a href="https://linkedin.com/in/ayaz-ahmed-018006355"><img src="https://img.shields.io/badge/linkedin-ayaz--ahmed-2d333b?style=flat-square&logo=linkedin&logoColor=3fb950&labelColor=21262d"/></a>
+  <a href="mailto:ayazkk616@gmail.com"><img src="https://img.shields.io/badge/mail-ayazkk616@gmail.com-2d333b?style=flat-square&logo=gmail&logoColor=3fb950&labelColor=21262d"/></a>
+  <a href="https://wa.me/923033383180"><img src="https://img.shields.io/badge/whatsapp-chat-2d333b?style=flat-square&logo=whatsapp&logoColor=3fb950&labelColor=21262d"/></a>
 </p>
 
 ---
@@ -42,7 +48,10 @@ ayaz@karachi:~$ ls contact/
 ayaz@karachi:~$ ./pipeline --watch
 ```
 
-<img src="https://raw.githubusercontent.com/1Ayazahmed/1Ayazahmed/main/assets/pipeline.svg" alt="vibe coding pipeline" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1Ayazahmed/1Ayazahmed/main/assets/pipeline.svg">
+  <img src="https://raw.githubusercontent.com/1Ayazahmed/1Ayazahmed/main/assets/pipeline-light.svg" alt="vibe coding pipeline" width="100%"/>
+</picture>
 
 ```bash
 ayaz@karachi:~$ cat vibe_coding.yaml
@@ -65,18 +74,18 @@ fde:
 ```
 
 <p>
-  <img src="https://img.shields.io/badge/Cursor-161B22?style=flat-square&logo=cursor&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Claude-161B22?style=flat-square&logo=claude&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Codex-161B22?style=flat-square&logo=openai&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Grok-161B22?style=flat-square&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Trae-161B22?style=flat-square&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Kiro-161B22?style=flat-square&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/CodeBuddy-161B22?style=flat-square&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Muse_AI-161B22?style=flat-square&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/MCP-161B22?style=flat-square&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Skills-161B22?style=flat-square&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Token_Compressors-161B22?style=flat-square&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Security_Audit-161B22?style=flat-square&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Cursor-161B22?style=flat-square&logo=cursor&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/Claude-161B22?style=flat-square&logo=claude&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/Codex-161B22?style=flat-square&logo=openai&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/Grok-161B22?style=flat-square&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/Trae-161B22?style=flat-square&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/Kiro-161B22?style=flat-square&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/CodeBuddy-161B22?style=flat-square&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/Muse_AI-161B22?style=flat-square&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/MCP-161B22?style=flat-square&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/Skills-161B22?style=flat-square&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/Token_Compressors-161B22?style=flat-square&logoColor=3fb950"/>
+  <img src="https://img.shields.io/badge/Security_Audit-161B22?style=flat-square&logoColor=3fb950"/>
 </p>
 
 ---
@@ -86,25 +95,43 @@ ayaz@karachi:~$ cat stack.txt
 ```
 
 **frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap,mui,vite&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap,mui,vite&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap,mui,vite&theme=light" alt="stack icons"/>
+</picture>
 
 **backend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,flask,fastapi,laravel,php,rust&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,flask,fastapi,laravel,php,rust&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,flask,fastapi,laravel,php,rust&theme=light" alt="stack icons"/>
+</picture>
 
 **data**<br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis,sqlite&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis,sqlite&theme=dark">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis,sqlite&theme=light" alt="stack icons"/>
+</picture>
 
 **cms / ecommerce**<br>
-<img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark">
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=light" alt="stack icons"/>
+</picture>
 <img src="https://img.shields.io/badge/Shopify-161B22?style=flat-square&logo=shopify&logoColor=7AB55C"/>
 <img src="https://img.shields.io/badge/Wix-161B22?style=flat-square&logo=wix&logoColor=white"/>
 <img src="https://img.shields.io/badge/Strapi-161B22?style=flat-square&logo=strapi&logoColor=8C4BFF"/>
 
 **devops / cloud**<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,aws,vercel,netlify&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,aws,vercel,netlify&theme=dark">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,aws,vercel,netlify&theme=light" alt="stack icons"/>
+</picture>
 
 **tools**<br>
-<img src="https://skillicons.dev/icons?i=git,linux,postman,selenium,figma,vscode,notion&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,linux,postman,selenium,figma,vscode,notion&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,selenium,figma,vscode,notion&theme=light" alt="stack icons"/>
+</picture>
 <img src="https://img.shields.io/badge/Jira-161B22?style=flat-square&logo=jira&logoColor=0052CC"/>
 
 ```text
@@ -163,7 +190,7 @@ ayaz@karachi:~$ ls -la projects/
         <img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/1Ayazahmed/Wordpress-Website-Intelligence-Dashboard-Security-SEO-Performance-Accessibility"><img src="https://img.shields.io/badge/view_repo-00FF9C?style=flat-square&logo=github&logoColor=0D1117&labelColor=00FF9C&color=00FF9C"/></a>
+        <a href="https://github.com/1Ayazahmed/Wordpress-Website-Intelligence-Dashboard-Security-SEO-Performance-Accessibility"><img src="https://img.shields.io/badge/view_repo-2d333b?style=flat-square&logo=github&logoColor=3fb950"/></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -176,7 +203,7 @@ ayaz@karachi:~$ ls -la projects/
         <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
       </p>
       <p align="center">
-        <a href="https://github.com/1Ayazahmed/AI-Chat-Assistant-for-WordPress-with-Multi-Provider-Support-Website-Content-Sync-Knowledge-Graph"><img src="https://img.shields.io/badge/view_repo-00FF9C?style=flat-square&logo=github&logoColor=0D1117&labelColor=00FF9C&color=00FF9C"/></a>
+        <a href="https://github.com/1Ayazahmed/AI-Chat-Assistant-for-WordPress-with-Multi-Provider-Support-Website-Content-Sync-Knowledge-Graph"><img src="https://img.shields.io/badge/view_repo-2d333b?style=flat-square&logo=github&logoColor=3fb950"/></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -190,7 +217,7 @@ ayaz@karachi:~$ ls -la projects/
         <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248"/>
       </p>
       <p align="center">
-        <a href="https://github.com/1Ayazahmed/AI-Powered-Ecommerce"><img src="https://img.shields.io/badge/view_repo-00FF9C?style=flat-square&logo=github&logoColor=0D1117&labelColor=00FF9C&color=00FF9C"/></a>
+        <a href="https://github.com/1Ayazahmed/AI-Powered-Ecommerce"><img src="https://img.shields.io/badge/view_repo-2d333b?style=flat-square&logo=github&logoColor=3fb950"/></a>
       </p>
     </td>
   </tr>
@@ -208,7 +235,7 @@ ayaz@karachi:~$ ls -la projects/
         <img src="https://img.shields.io/badge/BeautifulSoup-0D1117?style=flat-square&logo=python&logoColor=43B02A"/>
       </p>
       <p align="center">
-        <a href="https://github.com/1Ayazahmed/Perfect-Web-Cloner"><img src="https://img.shields.io/badge/view_repo-00FF9C?style=flat-square&logo=github&logoColor=0D1117&labelColor=00FF9C&color=00FF9C"/></a>
+        <a href="https://github.com/1Ayazahmed/Perfect-Web-Cloner"><img src="https://img.shields.io/badge/view_repo-2d333b?style=flat-square&logo=github&logoColor=3fb950"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -220,8 +247,8 @@ ayaz@karachi:~$ ls -la projects/
         <img src="https://img.shields.io/badge/Chrome_Extension-0D1117?style=flat-square&logo=googlechrome&logoColor=4285F4"/>
       </p>
       <p align="center">
-        <a href="https://github.com/1Ayazahmed/suno-app-song-donwloader-extension"><img src="https://img.shields.io/badge/view_repo-00FF9C?style=flat-square&logo=github&logoColor=0D1117&labelColor=00FF9C&color=00FF9C"/></a>
-        <a href="https://github.com/1Ayazahmed?tab=repositories"><img src="https://img.shields.io/badge/all_repos-0D1117?style=flat-square&logo=github&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/></a>
+        <a href="https://github.com/1Ayazahmed/suno-app-song-donwloader-extension"><img src="https://img.shields.io/badge/view_repo-2d333b?style=flat-square&logo=github&logoColor=3fb950"/></a>
+        <a href="https://github.com/1Ayazahmed?tab=repositories"><img src="https://img.shields.io/badge/all_repos-21262d?style=flat-square&logo=github&logoColor=8b949e"/></a>
       </p>
     </td>
   </tr>
@@ -237,8 +264,14 @@ ayaz@karachi:~$ gh stats --me
   <summary><b>expand</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=1ayazahmed&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ayazahmed&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" alt="Top Languages" />
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=1ayazahmed&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api?username=1ayazahmed&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a7f37&icon_color=1a7f37&text_color=24292f" alt="GitHub Stats"/>
+</picture>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1ayazahmed&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ayazahmed&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=24292f" alt="Top Languages"/>
+</picture>
   </p>
 </details>
 
@@ -251,5 +284,8 @@ ayaz@karachi:~$ ./hire.sh --collab --freelance --fulltime
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=00FF9C&background=0D111700&center=true&vCenter=true&width=420&height=30&lines=%24+exit+0;%2F%2F+ship+it." alt="footer" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=00FF9C&background=0D111700&center=true&vCenter=true&width=420&height=30&lines=%24+exit+0;%2F%2F+ship+it.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=1A7F37&background=0D111700&center=true&vCenter=true&width=420&height=30&lines=%24+exit+0;%2F%2F+ship+it." alt="footer"/>
+</picture>
 </div>
