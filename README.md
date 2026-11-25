@@ -1,7 +1,9 @@
 <div align="center">
 
+<img src="assets/neural-header.svg" alt="Ayaz Ahmed — Vibe Coding Expert, Forward Deployed Engineer" width="100%"/>
+
 <a href="https://github.com/1Ayazahmed">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00FF9C&background=0D111700&center=false&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=%24+whoami;ayaz_ahmed+%E2%80%94+full+stack+developer;%24+cat+stack.txt;MERN+%7C+Python+%7C+PHP+%7C+AI+agents+%7C+n8n;%24+echo+%22ideas+%E2%86%92+production%22;%24+status+--open-to-work" alt="typing terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00FF9C&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=50&lines=%24+whoami;vibe+coding+expert+%7C+forward+deployed+engineer;%24+plan+--first+%26%26+code+--second;%24+learning+--rust+--ai-stack;%24+status+--open-to-work" alt="typing terminal" />
 </a>
 
 </div>
@@ -11,14 +13,16 @@ ayaz@karachi:~$ cat about.md
 ```
 
 ```yaml
-name:      Ayaz Ahmed
-role:      Full Stack Developer @ IT Agency
-location:  Karachi, Pakistan
-experience: 4+ years (3+ freelance, 1+ industry)
-focus:     AI agents, automation, WordPress plugins, MERN apps
-learning:  agent architectures, Laravel, mobile
-ask_me:    React, Node.js, MongoDB, Python, WordPress, n8n
-workflow:  idea -> architecture -> deployed. AI-assisted, human-reviewed.
+name:        Ayaz Ahmed
+titles:      [Vibe Coding Expert, Forward Deployed Engineer, Full Stack Developer]
+now:         Full Stack Developer @ IT Agency
+location:    Karachi, Pakistan
+experience:  5+ years
+focus:       SaaS products, full-stack web apps, AI agents, automation
+seo:         intermediate (SEO + website optimization)
+learning:    AI tech stack, Rust
+ask_me:      React, Node.js, Laravel, MongoDB, Python, WordPress, n8n
+workflow:    plan -> code -> security inspect -> ship
 ```
 
 ```bash
@@ -35,6 +39,43 @@ ayaz@karachi:~$ ls contact/
 ---
 
 ```bash
+ayaz@karachi:~$ cat vibe_coding.yaml
+```
+
+```yaml
+vibe_coding:
+  agents_ides: [Cursor, Trae, Kiro, CodeBuddy, Codex, Claude, Grok, Muse]
+  extend_with: [expert skills, MCP tools, token compressors]
+  loop:
+    1_plan:    spec + architecture before any code
+    2_code:    agent-assisted, expert skills loaded per task
+    3_inspect: security skills audit the app
+    4_ship:    deploy, monitor, iterate
+  builds:      [SaaS products, full-stack web apps]
+  stacks:      [Laravel, Node.js, MERN, Python]
+  learning:    [AI tech stack, Rust]
+fde:
+  mode: forward deployed, embed with the problem, ship working product
+```
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-161B22?style=flat-square&logo=cursor&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Claude-161B22?style=flat-square&logo=claude&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Codex-161B22?style=flat-square&logo=openai&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Grok-161B22?style=flat-square&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Trae-161B22?style=flat-square&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Kiro-161B22?style=flat-square&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/CodeBuddy-161B22?style=flat-square&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Muse-161B22?style=flat-square&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/MCP-161B22?style=flat-square&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Skills-161B22?style=flat-square&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Token_Compressors-161B22?style=flat-square&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Security_Audit-161B22?style=flat-square&logoColor=00FF9C"/>
+</p>
+
+---
+
+```bash
 ayaz@karachi:~$ cat stack.txt
 ```
 
@@ -42,23 +83,28 @@ ayaz@karachi:~$ cat stack.txt
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap,mui,vite&theme=dark" />
 
 **backend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,flask,fastapi,laravel,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,flask,fastapi,laravel,php,rust&theme=dark" />
 
 **data**<br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis,sqlite&theme=dark" />
 
 **cms / ecommerce**<br>
-<img src="https://skillicons.dev/icons?i=wordpress,shopify,wix,webflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark" />
+<img src="https://img.shields.io/badge/Shopify-161B22?style=flat-square&logo=shopify&logoColor=7AB55C"/>
+<img src="https://img.shields.io/badge/Wix-161B22?style=flat-square&logo=wix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Strapi-161B22?style=flat-square&logo=strapi&logoColor=8C4BFF"/>
 
 **devops / cloud**<br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,aws,vercel,netlify&theme=dark" />
 
 **tools**<br>
-<img src="https://skillicons.dev/icons?i=git,linux,postman,selenium,figma,vscode,jira,notion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,linux,postman,selenium,figma,vscode,notion&theme=dark" />
+<img src="https://img.shields.io/badge/Jira-161B22?style=flat-square&logo=jira&logoColor=0052CC"/>
 
 ```text
 ai / automation : n8n, OpenAI, Anthropic, Groq, LangChain, RabbitMQ, Kafka
-also            : Strapi, Hostinger, cPanel
+seo / optimize  : technical SEO, performance, accessibility (intermediate)
+also            : Hostinger, cPanel
 ```
 
 ---
