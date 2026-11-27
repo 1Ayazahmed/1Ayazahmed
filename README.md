@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/neural-header.svg?v=2">
-  <img src="assets/neural-header-light.svg?v=2" alt="Ayaz Ahmed — Vibe Coding Expert, Forward Deployed Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neural-header.svg?v=3">
+  <img src="assets/neural-header-light.svg?v=3" alt="Ayaz Ahmed — Vibe Coding Expert, Forward Deployed Engineer" width="100%"/>
 </picture>
 
 <a href="https://github.com/1Ayazahmed">
@@ -50,8 +50,8 @@ ayaz@karachi:~$ ./pipeline --watch
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1Ayazahmed/1Ayazahmed/main/assets/pipeline.svg?v=2">
-  <img src="https://raw.githubusercontent.com/1Ayazahmed/1Ayazahmed/main/assets/pipeline-light.svg?v=2" alt="vibe coding pipeline" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1Ayazahmed/1Ayazahmed/main/assets/pipeline.svg?v=3">
+  <img src="https://raw.githubusercontent.com/1Ayazahmed/1Ayazahmed/main/assets/pipeline-light.svg?v=3" alt="vibe coding pipeline" width="100%"/>
 </picture>
 
 ```bash
@@ -312,15 +312,7 @@ ayaz@karachi:~$ gh stats --me
 
 ---
 
-```bash
-ayaz@karachi:~$ ./hire.sh --collab --freelance --fulltime
-> open to collaborations, freelance projects, full-time roles.
-> reach me: ayazkk616@gmail.com
-```
-
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=00FF9C&background=0D111700&center=true&vCenter=true&width=420&height=30&lines=%24+exit+0;%2F%2F+ship+it.">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=1A7F37&background=0D111700&center=true&vCenter=true&width=420&height=30&lines=%24+exit+0;%2F%2F+ship+it." alt="footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg?v=3">
+  <img src="assets/footer-light.svg?v=3" alt="Open to collaborations, freelance projects and full-time roles. ayazkk616@gmail.com" width="100%"/>
 </picture>
-</div>
