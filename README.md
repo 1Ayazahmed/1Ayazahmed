@@ -28,6 +28,7 @@ focus:       SaaS products, full-stack web apps, AI agents, automation
 seo:         intermediate (SEO + website optimization)
 learning:    AI tech stack, Rust
 ask_me:      React, Node.js, Laravel, MongoDB, Python, WordPress, n8n
+integrates:  Stripe, PayPal, Square, Marqeta, USPS, FedEx, UPS, EasyPost, Dropbox
 workflow:    plan -> code -> security inspect -> ship
 ```
 
@@ -139,6 +140,40 @@ ai / automation : n8n, OpenAI, Anthropic, Groq, LangChain, RabbitMQ, Kafka
 seo / optimize  : technical SEO, performance, accessibility (intermediate)
 also            : Hostinger, cPanel
 ```
+
+---
+
+```bash
+ayaz@karachi:~$ ls integrations/
+```
+
+```yaml
+integrations:
+  payments: [Stripe, PayPal, Square, Marqeta]
+  shipping: [USPS, FedEx, UPS, EasyPost]
+  storage:  [Dropbox]
+```
+
+**payments**<br>
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Square-3E4348?style=flat-square&logo=square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Marqeta-1B1F3B?style=flat-square"/>
+</p>
+
+**shipping / logistics**<br>
+<p>
+  <img src="https://img.shields.io/badge/USPS-333366?style=flat-square&logo=usps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FedEx-4D148C?style=flat-square&logo=fedex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UPS-351C15?style=flat-square&logo=ups&logoColor=FFB500"/>
+  <img src="https://img.shields.io/badge/EasyPost-2B6CB0?style=flat-square"/>
+</p>
+
+**storage**<br>
+<p>
+  <img src="https://img.shields.io/badge/Dropbox-0061FF?style=flat-square&logo=dropbox&logoColor=white"/>
+</p>
 
 ---
 
